@@ -12,7 +12,7 @@ Surge link: (http://reactmarkdownpreviewer.surge.sh/)
 
 
 ## Video Walk Through
-![](https://github.com/kuanhsuh/ReactJS-FCC_Markdown_Previewer/blob/master/demo.gif?raw=true)
+![](https://github.com/kuanhsuh/Reactjs-WeatherCity/blob/master/DEMO.gif?raw=true)
 
 ### Dependencies
   "axios": "^0.15.3",
@@ -28,5 +28,5 @@ Surge link: (http://reactmarkdownpreviewer.surge.sh/)
   "react-sparklines": "^1.6.0",
 
   "redux": "^3.6.0",
-  
+
   "redux-promise": "^0.5.3"
