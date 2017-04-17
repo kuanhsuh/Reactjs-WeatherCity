@@ -10,6 +10,8 @@ User Story: The map data is link to Google map api.
 
 Surge link: (http://reactmarkdownpreviewer.surge.sh/)
 
+** Note Google map api does not work with surge **
+
 
 ## Video Walk Through
 ![](https://github.com/kuanhsuh/Reactjs-WeatherCity/blob/master/DEMO.gif?raw=true)
