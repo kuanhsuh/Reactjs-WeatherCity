@@ -8,7 +8,7 @@ User Story: Each display also shows a line graph and the average line.
 
 User Story: The map data is link to Google map api.
 
-Surge link: (http://reactmarkdownpreviewer.surge.sh/)
+Surge link: (http://reactweatherapp.surge.sh/)
 
 ** Note Google map api does not work with surge **
 
